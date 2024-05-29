@@ -1,0 +1,12 @@
+.card {
+  border: 1px black solid;
+  width: 20em;
+  height: 20em;
+}
+
+.productImage{
+  width: 10em;
+  background-size: contain;
+  height: 10em;
+  background-repeat: no-repeat;
+}
